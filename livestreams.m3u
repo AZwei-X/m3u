@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老皮历险记
 http://epg.112114.xyz/douyu/2140934
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」阿飞
-http://epg.112114.xyz/douyu/84452
+http://epg.112114.xyz/douyu/84452https://github.com/AZwei-X/m3u/blob/main/livestreams.m3u
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」QQQ
 http://epg.112114.xyz/douyu/7887208
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」我有上将潘森
@@ -27,10 +27,12 @@ http://epg.112114.xyz/douyu/753676
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•娱乐",「斗鱼」华语电影
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•娱乐",「虎牙」周星星
-http://epg.112114.xyz/huya/11342412
-
-
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•娱乐",「斗鱼」欧美电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•娱乐",「斗鱼」特辑电影
+http://epg.112114.xyz/douyu/3637778
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•娱乐",「斗鱼」牛叔说电影
+http://epg.112114.xyz/douyu/2758565
 
 
 
