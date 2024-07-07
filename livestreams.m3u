@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•斗鱼「游戏」",老皮历险记
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老皮历险记
 http://live.iill.top/douyu.php?id=2140934
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」阿飞
 http://live.iill.top/douyu.php?id=84452
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」吾王爱德千秋万世
 http://live.iill.top/douyu.php?id=157663
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」素酒
+http://live.iill.top/douyu.php?id=7892
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」QQQ
+http://live.iill.top/douyu.php?id=7887208
 
