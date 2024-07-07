@@ -23,6 +23,12 @@ http://epg.112114.xyz/douyu/6922064
 http://epg.112114.xyz/douyu/8669004
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」帝国时代猜火车Yo
 http://epg.112114.xyz/douyu/753676
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•娱乐",「斗鱼」豆瓣电影TOP100
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•娱乐",「斗鱼」华语电影
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•娱乐",「虎牙」周星星
+http://epg.112114.xyz/huya/11342412
 
 
 
