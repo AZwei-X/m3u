@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老皮历险记
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•斗鱼「游戏」",老皮历险记
 http://live.iill.top/douyu.php?id=2140934
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」阿飞
 http://live.iill.top/douyu.php?id=84452
