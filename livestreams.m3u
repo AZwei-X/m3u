@@ -1,26 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老皮历险记
 http://epg.112114.xyz/douyu/2140934
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」阿飞
-http://epg.112114.xyz/douyu/84452
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1&douyin&logo" group-title="•抖音「游戏」",QQQ
 http://live.iill.top/douyin.php?id=38993952516
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」我有上将潘森
 http://epg.112114.xyz/douyu/47227
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」默陌-埃尔登法环
-http://epg.112114.xyz/douyu/4872710
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22782128&bilibili&logo" group-title="•B站「游戏」",温润如玉祖国宁
 http://live.iill.top/bilibili.php?id=22782128
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老猫CatGames
 http://epg.112114.xyz/douyu/99367
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」寅子
-http://epg.112114.xyz/douyu/71415
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」吾王爱德千秋万世
 http://epg.112114.xyz/douyu/157663
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」素酒-三国战记
 http://epg.112114.xyz/douyu/7892
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」您好语儿-策略游戏
-http://epg.112114.xyz/douyu/6922064
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」caoqwer-FC游戏
 http://epg.112114.xyz/douyu/8669004
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」帝国时代猜火车Yo
@@ -29,3 +21,7 @@ http://epg.112114.xyz/douyu/753676
 https://live.iill.top/bilibili/475348193
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/389493337&bilibili&logo" group-title="•B站「游戏」",Sain粽子
 https://live.iill.top/bilibili/389493337
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",LANTlC
+https://live.iill.top/twitch/LANTlC
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",iSkys
+https://live.iill.top/twitch/iSkys
