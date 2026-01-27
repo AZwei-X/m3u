@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老皮历险记
-http://epg.112114.xyz/douyu/2140934
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/2140934&douyu&logo" group-title="•斗鱼「游戏」",「斗鱼」老皮历险记
+https://live.iill.top/douyu/2140934
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1&douyin&logo" group-title="•抖音「游戏」",QQQ
 http://live.iill.top/douyin.php?id=38993952516
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」我有上将潘森
-http://epg.112114.xyz/douyu/47227
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/47227&douyu&logo" group-title="•斗鱼「游戏」",「斗鱼」我有上将潘森
+https://live.iill.top/douyu/47227
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22782128&bilibili&logo" group-title="•B站「游戏」",温润如玉祖国宁
 http://live.iill.top/bilibili.php?id=22782128
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•主机游戏",「斗鱼」老猫CatGames
 http://epg.112114.xyz/douyu/99367
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」吾王爱德千秋万世
-http://epg.112114.xyz/douyu/157663
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」素酒-三国战记
-http://epg.112114.xyz/douyu/7892
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/157663&douyu&logo" group-title="•斗鱼「游戏」",「斗鱼」吾王爱德千秋万世
+https://live.iill.top/douyu/157663
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/7892&douyu&logo" group-title="•斗鱼「游戏」",「斗鱼」素酒
+https://live.iill.top/douyu/7892
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」caoqwer-FC游戏
 http://epg.112114.xyz/douyu/8669004
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•怀旧游戏",「斗鱼」帝国时代猜火车Yo
