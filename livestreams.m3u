@@ -1,40 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/2140934&douyu&logo" group-title="•斗鱼「游戏」",老皮历险记
-https://cdn-3.ttvb.eu.org//douyu/2140934
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/38993952516&douyin&logo" group-title="•抖音「游戏」",QQQ
-https://cdn-3.ttvb.eu.org//douyin/38993952516
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/47227&douyu&logo" group-title="•斗鱼「游戏」",我有上将潘森
-https://cdn-3.ttvb.eu.org//douyu/47227
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/99367&douyu&logo" group-title="•斗鱼「游戏」",老猫CatGames
-https://cdn-3.ttvb.eu.org//douyu/99367
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/157663&douyu&logo" group-title="•斗鱼「游戏」",吾王爱德千秋万世
-https://cdn-3.ttvb.eu.org//douyu/157663
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/7892&douyu&logo" group-title="•斗鱼「游戏」",素酒
-https://cdn-3.ttvb.eu.org//douyu/7892
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/8669004&douyu&logo" group-title="•斗鱼「游戏」",caoqwer
-https://cdn-3.ttvb.eu.org//douyu/8669004
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/2140934" group-title="•斗鱼「游戏」",老皮历险记
+https://cdn.ttvb.eu.org/douyu/2140934
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/47227" group-title="•斗鱼「游戏」",我有上将潘森
+https://cdn.ttvb.eu.org/douyu/47227
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/99367" group-title="•斗鱼「游戏」",老猫CatGames
+https://cdn.ttvb.eu.org/douyu/99367
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/157663" group-title="•斗鱼「游戏」",吾王爱德千秋万世
+https://cdn.ttvb.eu.org/douyu/157663
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/7892" group-title="•斗鱼「游戏」",douyu素酒
+https://cdn.ttvb.eu.org/douyu/7892
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/8669004" group-title="•斗鱼「游戏」",caoqwer
+https://cdn.ttvb.eu.org/douyu/8669004
 
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/22782128&bilibili&logo" group-title="•B站「游戏」",温润如玉祖国宁
-https://cdn-3.ttvb.eu.org//bilibili/22782128
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/1714607218&bilibili&logo" group-title="•B站「游戏」",时暮kr
-https://cdn-3.ttvb.eu.org//bilibili/1714607218
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/24381409&bilibili&logo" group-title="•B站「游戏」",Sain粽子
-https://cdn-3.ttvb.eu.org//bilibili/24381409
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/10265&bilibili&logo" group-title="•B站「游戏」",UCYU
-https://cdn-3.ttvb.eu.org//bilibili/10265
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/4297272&bilibili&logo" group-title="•B站「游戏」",Cinderella小辛
-https://cdn-3.ttvb.eu.org//bilibili/4297272
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/22782128" group-title="•哔哩「游戏」",温润如玉祖国宁
+https://cdn.ttvb.eu.org/bilibili/22782128
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/1714607218" group-title="•哔哩「游戏」",时暮kr
+https://cdn.ttvb.eu.org/bilibili/1714607218
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/24381409" group-title="•哔哩「游戏」",Sain粽子
+https://cdn.ttvb.eu.org/bilibili/24381409
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/4297272" group-title="•哔哩「游戏」",Cinderella小辛
+https://cdn.ttvb.eu.org/bilibili/4297272
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/10265" group-title="•哔哩「游戏」",UCYC
+https://cdn.ttvb.eu.org/bilibili/10265
 
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/DunkOrSlam" group-title="•Twitch「游戏」",DunkOrSlam
+https://cdn.ttvb.eu.org/twitch/DunkOrSlam
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/shroud" group-title="•Twitch「游戏」",shroud
+https://cdn.ttvb.eu.org/twitch/shroud
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/LANTlC" group-title="•Twitch「游戏」",LANTlC
+https://cdn.ttvb.eu.org/twitch/LANTlC
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/iSkys" group-title="•Twitch「游戏」",iSkys
+https://cdn.ttvb.eu.org/twitch/iSkys
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/Smoke" group-title="•Twitch「游戏」",Smoke
+https://cdn.ttvb.eu.org/twitch/Smoke
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/onichigan" group-title="•Twitch「游戏」",onichigan
+https://cdn.ttvb.eu.org/twitch/onichigan
 
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/LANTlC&twitch&logo" group-title="•Twitch「游戏」",LANTlC
-https://cdn-3.ttvb.eu.org//twitch/LANTlC
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/iSkys&twitch&logo" group-title="•Twitch「游戏」",iSkys
-https://cdn-3.ttvb.eu.org//twitch/iSkys
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/shroud&twitch&logo" group-title="•Twitch「游戏」",shroud
-https://cdn-3.ttvb.eu.org//twitch/shroud
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/Smoke&twitch&logo" group-title="•Twitch「游戏」",Smoke
-https://cdn-3.ttvb.eu.org//twitch/Smoke
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/onichigan&twitch&logo" group-title="•Twitch「游戏」",onichigan
-https://cdn-3.ttvb.eu.org//twitch/Smoke
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/陈一发儿放映室&twitch&logo" group-title="•Twitch「游戏」",陈一发
-https://cdn-3.ttvb.eu.org//twitch/陈一发儿放映室
